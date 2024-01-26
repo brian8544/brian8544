@@ -9,7 +9,7 @@
 
 ![brian8544 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brian8544&layout=compact&theme=dark)
 
-Hello there! My name is Brian Oost, I'm a 24-year-old IT professional from The Netherlands. I'm a friendly and ambitious guy who is passionate about using technology to make a positive impact on society. As a computer systems developer, I have a keen interest in exploring the endless possibilities that technology has to offer.
+Hello there! My name is Brian Oost, I'm a 25-year-old IT professional from The Netherlands. I'm a friendly and ambitious guy who is passionate about using technology to make a positive impact on society. As a computer systems developer, I have a keen interest in exploring the endless possibilities that technology has to offer.
 
 When I'm not immersed in IT, I enjoy keeping my programming skills sharp by working with programming-languages such as C++ and PHP. I also love to unwind by playing computer games. Beyond my technical pursuits, I have a love for the outdoors, and you might find me going for walks in nature or spending time with my friends.
 
